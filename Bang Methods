@@ -1,0 +1,10 @@
+methods end by !
+when we use a normal method that does not modify the original object or value 
+we have to return it or store it into a another var to work on in
+
+to come with this problem bang methods are used
+they modify the original object , so we do not need to return or stote it into to a var.
+
+We can say that bang method operatos self in place
+
+in ruby most of every method has bang methos of it
